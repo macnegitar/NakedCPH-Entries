@@ -1,7 +1,9 @@
 
 # NakedCPH-Entries
 Used to automate entering a raffle on 'NakedCPH' for the OW Presto (Black) drop.
+
 The code is a bit messy written but I didn't plan on open sourcing it.
+
 I will update this for future drops as the entry is hard coded for 'OW Prestos'
 
 **Usage**
