@@ -11,8 +11,13 @@ I will update this for future drops as the entry is hard coded for 'OW Prestos'
 2. Open the directory and in the console, input
 
    > npm install
+   
+3. Input proxies in proxies.txt unless you wish to use none
+	Format:
+	127.0.0.1:88
+	127.0.0.1:88:user:pass
 
-2. Then in the console, input
+4. Then in the console, input
 
    > node index.js
    
